@@ -2,7 +2,7 @@
 
 A small React frontend built for the "Frontend que consume una API" assignment (Corte 1, Semana 4).
 
-![Mockup preview](./docs/mockup.svg)
+![Mockup preview](./docs/mockup.png)
 
 ## Overview
 
@@ -10,7 +10,7 @@ Citizen Directory is a single-page React application that browses fictional char
 
 ## Vista previa / Mockup
 
-El wireframe de la distribución de la vista está en [`docs/mockup.svg`](./docs/mockup.svg). Muestra los tres estados que maneja la app (carga, datos, error) y cómo se distribuyen el encabezado, la grilla de tarjetas y el pie de página.
+El wireframe de la distribución de la vista está en [`docs/mockup.png`](./docs/mockup.png). Muestra los tres estados que maneja la app (carga, datos, error) y cómo se distribuyen el encabezado, la grilla de tarjetas y el pie de página.
 
 ## Estructura del proyecto
 
@@ -58,7 +58,7 @@ npm run preview
 
 - **Rick and Morty API** — https://rickandmortyapi.com/api/character
 - Pública, gratuita, no requiere API key.
-- Endpoint usado: `GET /character?page={n}` (paginado, 20 personajes por página).
+- Endpoint usado: `GET /character?page={n}` (20 personajes por página).
 
 ## Tecnologías
 
