@@ -29,7 +29,7 @@ src/
   App.jsx                # orquesta qué estado renderizar
   App.css / index.css    # estilos y tokens de diseño
 docs/
-  mockup.svg              # wireframe de la vista
+  mockup.png              # wireframe de la vista
 ```
 
 ## Cómo ejecutarlo
